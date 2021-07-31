@@ -17,18 +17,13 @@ li{
     float: left;
     font-family: Helvetica;
     transition: 0.6s;
-}
-
-li a{
-
     display: block;
     text-align: center;
-    color: white;
     padding: 13px;
     text-decoration: none;
-    
-
 }
+
+
 
 li:hover{
     background-color: #D32F2F ;
